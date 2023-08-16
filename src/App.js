@@ -42,7 +42,7 @@ const App = () => {
   const [videoCall, setVideoCall] = useState(true);
   
   const rtcProps = {
-    appId: '<App ID>',
+    appId: '1e07c1131da141dd8734a2fa01e82955',
     channel: 'test', // your agora channel
     //token: null //'<Your channel Token>' use null or skip if using app in testing mode
   };
